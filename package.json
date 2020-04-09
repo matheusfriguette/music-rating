@@ -38,6 +38,7 @@
   },
   "scripts": {
     "start": "tailwind build src/styles/tailwind.css -c tailwind.config.js -o src/styles/index.css && react-scripts start",
+    "start:api": "json-server server.json -p 3101",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
