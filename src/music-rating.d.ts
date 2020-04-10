@@ -1,12 +1,19 @@
 export interface Review {
   id: number;
-  name: string;
   album: string;
+  artist: string;
+  releaseDate: Date;
+  formattedReleaseDate?: string;
   cover: string;
   genres: string[];
-  rating: number;
-  finalRating: string;
+  rating: Rating;
   songs: Song[];
+  songsAverage: number;
+}
+
+interface Rating {
+  primary: number;
+  secondary: number;
 }
 
 interface Song {

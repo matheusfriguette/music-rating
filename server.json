@@ -5,51 +5,54 @@
       "album": "Unknown Pleasures",
       "releaseDate": "1979-06-15",
       "cover": "https://i.scdn.co/image/ab67616d0000b2733fb6bc46c932ca1ab168526a",
-      "genres": [],
-      "rating": 10,
-      "finalRating": "9.20",
+      "genres": ["Post-punk, Gothic rock"],
+      "rating": {
+        "primary": 10,
+        "secondary": 2
+      },
       "songs": [
         {
           "name": "Disorder",
-          "rating": 10
+          "rating": 5
         },
         {
           "name": "Day of the Lords",
-          "rating": 8
+          "rating": 4
         },
         {
           "name": "Candidate",
-          "rating": 7
+          "rating": 4
         },
         {
           "name": "Insight",
-          "rating": 7
+          "rating": 3
         },
         {
           "name": "New Dawn Fades",
-          "rating": 11
+          "rating": 6
         },
         {
           "name": "She's Lost Control",
-          "rating": 10
+          "rating": 5
         },
         {
           "name": "Shadowplay",
-          "rating": 10
+          "rating": 5
         },
         {
           "name": "Wilderness",
-          "rating": 7
+          "rating": 4
         },
         {
           "name": "Interzone",
-          "rating": 8
+          "rating": 4
         },
         {
           "name": "I Remember Nothing",
-          "rating": 6
+          "rating": 3
         }
       ],
+      "songsAverage": 4.5,
       "id": 2
     }
   ]
