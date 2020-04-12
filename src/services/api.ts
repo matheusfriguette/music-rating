@@ -1,7 +1,9 @@
 import axios from 'axios';
 
-const api = axios.create({
+export const api = axios.create({
   baseURL: 'http://localhost:3101/',
 });
 
-export default api;
+export const lastFmApi = axios.create({
+  baseURL: 'http://ws.audioscrobbler.com/2.0',
+});

@@ -15,34 +15,36 @@ const ListItem: React.FC<Props> = ({ review, index }) => {
   return (
     <li className="border-t">
       <div className="grid grid-cols-12 gap-4 p-4">
-        <div className="col-span-4 lg:col-span-3">
+        <div className="col-span-4 md:col-span-3">
           <div className="flex">
-            <div className="hidden lg:flex min-w-24px justify-center items-center">
+            <div className="hidden md:flex min-w-24px justify-center items-center">
               <div className="font-semibold text-gray-600 text-lg">
                 {index + 1}
               </div>
             </div>
             <img
-              className="w-32 shadow ml-0 lg:ml-6"
+              className="w-32 shadow ml-0 md:ml-4"
               src={review.cover}
               alt={review.album}
             />
           </div>
         </div>
-        <div className="col-span-8 lg:col-span-6">
+        <div className="col-span-8 md:col-span-6">
           <div className="flex flex-col justify-center h-full">
             <div className="font-semibold">
-              <span className="inline lg:hidden">{index + 1}. </span>
+              <span className="inline md:hidden">{index + 1}. </span>
               {review.album}
             </div>
             <div>{review.artist}</div>
-            <div className="text-sm text-gray-600">{review.genres.join()}</div>
+            <div className="text-sm text-gray-600">
+              {review.genres.join(', ')}
+            </div>
             <div className="text-sm text-gray-600 mt-4">
               {review.formattedReleaseDate}
             </div>
           </div>
         </div>
-        <div className="col-span-12 lg:col-span-3">
+        <div className="col-span-12 md:col-span-3">
           <div className="flex flex-col justify-center h-full">
             <div className="flex justify-between items-center">
               <AlbumRating rating={review.rating} />

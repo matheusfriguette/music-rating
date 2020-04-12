@@ -18,7 +18,18 @@ module.exports = {
         'Noto Color Emoji',
       ],
     },
-    extend: {},
+    extend: {
+      spacing: {
+        '4px': '16px',
+      },
+    },
+    minWidth: {
+      '24px': '24px',
+      '40': '10rem',
+      '64': '16rem',
+      '80': '20rem',
+      full: '100%',
+    },
   },
   variants: {},
   plugins: [],

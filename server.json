@@ -5,7 +5,7 @@
       "album": "Unknown Pleasures",
       "releaseDate": "1979-06-15",
       "cover": "https://i.scdn.co/image/ab67616d0000b2733fb6bc46c932ca1ab168526a",
-      "genres": ["Post-punk, Gothic rock"],
+      "genres": ["Post-punk", "Gothic Rock"],
       "rating": {
         "primary": 10,
         "secondary": 2
@@ -54,6 +54,1740 @@
       ],
       "songsAverage": 4.5,
       "id": 2
+    },
+    {
+      "artist": "Interpol",
+      "album": "Turn On The Bright Lights",
+      "releaseDate": "2002-08-20T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d3dbd74f07f1b7d86be24cd0",
+      "genres": ["Post-punk Revival", "Post-punk"],
+      "rating": {
+        "primary": 10,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Untitled",
+          "rating": 5
+        },
+        {
+          "name": "Obstacle 1",
+          "rating": 5
+        },
+        {
+          "name": "NYC",
+          "rating": 4
+        },
+        {
+          "name": "PDA",
+          "rating": 5
+        },
+        {
+          "name": "Say Hello to the Angels",
+          "rating": 4
+        },
+        {
+          "name": "Hands Away",
+          "rating": 4
+        },
+        {
+          "name": "Obstacle 2",
+          "rating": 4
+        },
+        {
+          "name": "Stella Was a Diver and She Was Always Down",
+          "rating": 6
+        },
+        {
+          "name": "Roland",
+          "rating": 4
+        },
+        {
+          "name": "The New",
+          "rating": 5
+        },
+        {
+          "name": "Leif Erikson",
+          "rating": 6
+        }
+      ],
+      "songsAverage": 4.73,
+      "id": 3
+    },
+    {
+      "artist": "Radiohead",
+      "album": "OK Computer",
+      "releaseDate": "1997-06-16T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf",
+      "genres": ["Alternative Rock", "Art Rock"],
+      "rating": {
+        "primary": 10,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Airbag",
+          "rating": 3
+        },
+        {
+          "name": "Paranoid Android",
+          "rating": 6
+        },
+        {
+          "name": "Subterranean Homesick Alien",
+          "rating": 4
+        },
+        {
+          "name": "Exit Music (for a Film)",
+          "rating": 4
+        },
+        {
+          "name": "Let Down",
+          "rating": 6
+        },
+        {
+          "name": "Karma Police",
+          "rating": 5
+        },
+        {
+          "name": "Fitter Happier",
+          "rating": 3
+        },
+        {
+          "name": "Electioneering",
+          "rating": 4
+        },
+        {
+          "name": "Climbing Up the Walls",
+          "rating": 3
+        },
+        {
+          "name": "No Surprises",
+          "rating": 5
+        },
+        {
+          "name": "Lucky",
+          "rating": 5
+        },
+        {
+          "name": "The Tourist",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.42,
+      "id": 4
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "releaseDate": "2019-04-05T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735676fba9c44ba772deb81727",
+      "genres": ["Art Pop", "Baroque Pop"],
+      "rating": {
+        "primary": 10,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "A Lot's Gonna Change",
+          "rating": 5
+        },
+        {
+          "name": "Andromeda",
+          "rating": 6
+        },
+        {
+          "name": "Everyday",
+          "rating": 5
+        },
+        {
+          "name": "Something to Believe",
+          "rating": 4
+        },
+        {
+          "name": "Titanic Rising",
+          "rating": 3
+        },
+        {
+          "name": "Movies",
+          "rating": 5
+        },
+        {
+          "name": "Mirror Forever",
+          "rating": 4
+        },
+        {
+          "name": "Wild Time",
+          "rating": 5
+        },
+        {
+          "name": "Picture Me Better",
+          "rating": 4
+        },
+        {
+          "name": "Nearer to Thee",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 4.4,
+      "id": 5
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Tranquility Base Hotel & Casino",
+      "releaseDate": "2018-05-11T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27329d0706875760373af2812f1",
+      "genres": ["Lounge", "Psychedelic Rock"],
+      "rating": {
+        "primary": 10,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Star Treatment",
+          "rating": 6
+        },
+        {
+          "name": "One Point Perspective",
+          "rating": 5
+        },
+        {
+          "name": "American Sports",
+          "rating": 4
+        },
+        {
+          "name": "Tranquility Base Hotel & Casino",
+          "rating": 4
+        },
+        {
+          "name": "Golden Trunks",
+          "rating": 4
+        },
+        {
+          "name": "Four Out Of Five",
+          "rating": 5
+        },
+        {
+          "name": "The World's First Ever Monster Truck Front Flip",
+          "rating": 3
+        },
+        {
+          "name": "Science Fiction",
+          "rating": 3
+        },
+        {
+          "name": "She Looks Like Fun",
+          "rating": 4
+        },
+        {
+          "name": "Batphone",
+          "rating": 5
+        },
+        {
+          "name": "The Ultracheese",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.36,
+      "id": 6
+    },
+    {
+      "artist": "The Strokes",
+      "album": "Is This It",
+      "releaseDate": "2001-07-30T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/4dd3a9aa1a8dc5b9a49397caa67aff6ae8e7b642",
+      "genres": ["Indie Rock", "Post-punk Revival"],
+      "rating": {
+        "primary": 10,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Is This It",
+          "rating": 4
+        },
+        {
+          "name": "The Modern Age",
+          "rating": 4
+        },
+        {
+          "name": "Soma",
+          "rating": 5
+        },
+        {
+          "name": "Barely Legal",
+          "rating": 5
+        },
+        {
+          "name": "Someday",
+          "rating": 6
+        },
+        {
+          "name": "Alone, Together",
+          "rating": 3
+        },
+        {
+          "name": "Last Nite",
+          "rating": 5
+        },
+        {
+          "name": "Hard to Explain",
+          "rating": 5
+        },
+        {
+          "name": "New York City Cops",
+          "rating": 5
+        },
+        {
+          "name": "Trying Your Luck",
+          "rating": 5
+        },
+        {
+          "name": "Take It or Leave It",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 4.64,
+      "id": 7
+    },
+    {
+      "artist": "Joy Division",
+      "album": "Closer",
+      "releaseDate": "1980-06-18T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e757df971b9ca423735ff3e9",
+      "genres": ["Post-punk", "Gothic Rock"],
+      "rating": {
+        "primary": 10,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Atrocity Exhibition",
+          "rating": 5
+        },
+        {
+          "name": "Isolation",
+          "rating": 5
+        },
+        {
+          "name": "Passover",
+          "rating": 5
+        },
+        {
+          "name": "Colony",
+          "rating": 4
+        },
+        {
+          "name": "A Means to an End",
+          "rating": 4
+        },
+        {
+          "name": "Heart and Soul",
+          "rating": 5
+        },
+        {
+          "name": "Twenty Four Hours",
+          "rating": 6
+        },
+        {
+          "name": "The Eternal",
+          "rating": 5
+        },
+        {
+          "name": "Decades",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.89,
+      "id": 8
+    },
+    {
+      "artist": "Talking Heads",
+      "album": "Remain In Light",
+      "releaseDate": "1980-10-08T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f9e2d82b9969defab2105859",
+      "genres": ["New Wave"],
+      "rating": {
+        "primary": 10,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Born Under Punches (The Heat Goes On)",
+          "rating": 4
+        },
+        {
+          "name": "Crosseyed and Painless",
+          "rating": 5
+        },
+        {
+          "name": "The Great Curve",
+          "rating": 5
+        },
+        {
+          "name": "Once in a Lifetime",
+          "rating": 5
+        },
+        {
+          "name": "Houses in Motion",
+          "rating": 3
+        },
+        {
+          "name": "Seen and Not Seen",
+          "rating": 3
+        },
+        {
+          "name": "Listening Wind",
+          "rating": 5
+        },
+        {
+          "name": "The Overload",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 4.25,
+      "id": 9
+    },
+    {
+      "artist": "NX Zero",
+      "album": "Norte",
+      "releaseDate": "2015-08-07T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e6481792bc711780870a74cf",
+      "genres": ["Pop Rock"],
+      "rating": {
+        "primary": 4,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Modo Avião",
+          "rating": 3
+        },
+        {
+          "name": "Meu Bem",
+          "rating": 3
+        },
+        {
+          "name": "Mandela",
+          "rating": 2
+        },
+        {
+          "name": "Fração de Segundo",
+          "rating": 5
+        },
+        {
+          "name": "Por Amor",
+          "rating": 3
+        },
+        {
+          "name": "Personal Privê",
+          "rating": 4
+        },
+        {
+          "name": "Vibe",
+          "rating": 4
+        },
+        {
+          "name": "Pedra Murano",
+          "rating": 2
+        },
+        {
+          "name": "Breve Momento",
+          "rating": 4
+        },
+        {
+          "name": "Gole de Sorte",
+          "rating": 3
+        },
+        {
+          "name": "Milianos",
+          "rating": 2
+        },
+        {
+          "name": "Marcas de Expressão",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 3.25,
+      "id": 10
+    },
+    {
+      "artist": "Alexandra Savior",
+      "album": "Belladonna of Sadness",
+      "releaseDate": "2017-04-07T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b9df7275ff80a60fa1272835",
+      "genres": ["Indie Pop", "Dream Pop"],
+      "rating": {
+        "primary": 6,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Mirage",
+          "rating": 3
+        },
+        {
+          "name": "Bones",
+          "rating": 4
+        },
+        {
+          "name": "Shades",
+          "rating": 4
+        },
+        {
+          "name": "Girlie",
+          "rating": 5
+        },
+        {
+          "name": "Frankie",
+          "rating": 3
+        },
+        {
+          "name": "M.T.M.E.",
+          "rating": 3
+        },
+        {
+          "name": "Audeline",
+          "rating": 5
+        },
+        {
+          "name": "Cupid",
+          "rating": 4
+        },
+        {
+          "name": "'Til You're Mine",
+          "rating": 4
+        },
+        {
+          "name": "Vanishing Point",
+          "rating": 4
+        },
+        {
+          "name": "Mystery Girl",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.82,
+      "id": 11
+    },
+    {
+      "artist": "Alexandra Savior",
+      "album": "The Archer",
+      "releaseDate": "2020-01-10T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/3e3d94eecd3868e7fdb7330ed1f45a394d052124",
+      "genres": ["Indie Pop", "Dream Pop"],
+      "rating": {
+        "primary": 6,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Soft Currents",
+          "rating": 4
+        },
+        {
+          "name": "Saving Grace",
+          "rating": 3
+        },
+        {
+          "name": "Crying All the Time",
+          "rating": 4
+        },
+        {
+          "name": "Howl",
+          "rating": 3
+        },
+        {
+          "name": "Send Her Back",
+          "rating": 5
+        },
+        {
+          "name": "Can't Help Myself",
+          "rating": 5
+        },
+        {
+          "name": "The Phantom",
+          "rating": 3
+        },
+        {
+          "name": "Bad Disease",
+          "rating": 4
+        },
+        {
+          "name": "But You",
+          "rating": 4
+        },
+        {
+          "name": "The Archer",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 3.9,
+      "id": 12
+    },
+    {
+      "artist": "Alvvays",
+      "album": "Alvvays",
+      "releaseDate": "2014-07-22T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ce93b2fc719ae92dacec2b4b",
+      "genres": ["Dream Pop", "Jangle Pop"],
+      "rating": {
+        "primary": 8,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Adult Diversion",
+          "rating": 4
+        },
+        {
+          "name": "Archie, Marry Me",
+          "rating": 5
+        },
+        {
+          "name": "Ones Who Love You",
+          "rating": 5
+        },
+        {
+          "name": "Next of Kin",
+          "rating": 4
+        },
+        {
+          "name": "Party Police",
+          "rating": 6
+        },
+        {
+          "name": "The Agency Group",
+          "rating": 4
+        },
+        {
+          "name": "Dives",
+          "rating": 2
+        },
+        {
+          "name": "Atop a Cake",
+          "rating": 4
+        },
+        {
+          "name": "Red Planet",
+          "rating": 2
+        }
+      ],
+      "songsAverage": 4,
+      "id": 13
+    },
+    {
+      "artist": "Alvvays",
+      "album": "Antisocialites",
+      "releaseDate": "2017-11-08T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ad8f67f5f03d44e215deea50",
+      "genres": ["Dream Pop", "Jangle Pop"],
+      "rating": {
+        "primary": 7,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "In Undertow",
+          "rating": 5
+        },
+        {
+          "name": "Dreams Tonite",
+          "rating": 5
+        },
+        {
+          "name": "Plimsoll Punks",
+          "rating": 4
+        },
+        {
+          "name": "Your Type",
+          "rating": 2
+        },
+        {
+          "name": "Not My Baby",
+          "rating": 6
+        },
+        {
+          "name": "Hey",
+          "rating": 3
+        },
+        {
+          "name": "Lollipop (Ode To Jim)",
+          "rating": 2
+        },
+        {
+          "name": "Already Gone",
+          "rating": 3
+        },
+        {
+          "name": "Saved By A Waif",
+          "rating": 5
+        },
+        {
+          "name": "Forget About Life",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 3.9,
+      "id": 14
+    },
+    {
+      "artist": "David Bowie",
+      "album": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+      "releaseDate": "1972-06-16T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ce928bc5dc2ed4d8e6d82366",
+      "genres": ["Glam Rock", "Art Rock"],
+      "rating": {
+        "primary": 10,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Five Years",
+          "rating": 5
+        },
+        {
+          "name": "Soul Love",
+          "rating": 5
+        },
+        {
+          "name": "Moonage Daydream",
+          "rating": 6
+        },
+        {
+          "name": "Starman",
+          "rating": 5
+        },
+        {
+          "name": "It Ain't Easy",
+          "rating": 4
+        },
+        {
+          "name": "Lady Stardust",
+          "rating": 6
+        },
+        {
+          "name": "Star",
+          "rating": 4
+        },
+        {
+          "name": "Hang on to Yourself",
+          "rating": 3
+        },
+        {
+          "name": "Ziggy Stardust",
+          "rating": 5
+        },
+        {
+          "name": "Suffragette City",
+          "rating": 4
+        },
+        {
+          "name": "Rock 'n' Roll Suicide",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.72,
+      "id": 15
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "releaseDate": "2012-05-15T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273490a886fd5517388d3b066c8",
+      "genres": ["Dream Pop"],
+      "rating": {
+        "primary": 8,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Myth",
+          "rating": 6
+        },
+        {
+          "name": "Wild",
+          "rating": 4
+        },
+        {
+          "name": "Lazuli",
+          "rating": 5
+        },
+        {
+          "name": "Other People",
+          "rating": 3
+        },
+        {
+          "name": "The Hours",
+          "rating": 3
+        },
+        {
+          "name": "Troublemaker",
+          "rating": 4
+        },
+        {
+          "name": "New Year",
+          "rating": 4
+        },
+        {
+          "name": "Wishes",
+          "rating": 4
+        },
+        {
+          "name": "On the Sea",
+          "rating": 5
+        },
+        {
+          "name": "Irene",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 4.2,
+      "id": 16
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "releaseDate": "2013-11-09T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+      "genres": ["Indie Rock"],
+      "rating": {
+        "primary": 5,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Do I Wanna Know?",
+          "rating": 3
+        },
+        {
+          "name": "R U Mine?",
+          "rating": 5
+        },
+        {
+          "name": "One for the Road",
+          "rating": 4
+        },
+        {
+          "name": "Arabella",
+          "rating": 2
+        },
+        {
+          "name": "I Want It All",
+          "rating": 1
+        },
+        {
+          "name": "No. 1 Party Anthem",
+          "rating": 3
+        },
+        {
+          "name": "Mad Sounds",
+          "rating": 1
+        },
+        {
+          "name": "Fireside",
+          "rating": 4
+        },
+        {
+          "name": "Why'd You Only Call Me When You're High?",
+          "rating": 4
+        },
+        {
+          "name": "Snap Out of It",
+          "rating": 4
+        },
+        {
+          "name": "Knee Socks",
+          "rating": 5
+        },
+        {
+          "name": "I Wanna Be Yours",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.25,
+      "id": 17
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Suck It And See",
+      "releaseDate": "2011-06-06T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734e1e57eb66ed6b41ac8badd1",
+      "genres": ["Indie Rock"],
+      "rating": {
+        "primary": 5,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "She's Thunderstorms",
+          "rating": 1
+        },
+        {
+          "name": "Black Treacle",
+          "rating": 4
+        },
+        {
+          "name": "Brick by Brick",
+          "rating": 2
+        },
+        {
+          "name": "The Hellcat Spangled Shalalala",
+          "rating": 5
+        },
+        {
+          "name": "Don't Sit Down 'Cause I've Moved Your Chair",
+          "rating": 3
+        },
+        {
+          "name": "Library Pictures",
+          "rating": 3
+        },
+        {
+          "name": "All My Own Stunts",
+          "rating": 4
+        },
+        {
+          "name": "Reckless Serenade",
+          "rating": 5
+        },
+        {
+          "name": "Piledriver Waltz",
+          "rating": 4
+        },
+        {
+          "name": "Love Is a Laserquest",
+          "rating": 4
+        },
+        {
+          "name": "Suck It and See",
+          "rating": 4
+        },
+        {
+          "name": "That's Where You're Wrong",
+          "rating": 2
+        }
+      ],
+      "songsAverage": 3.42,
+      "id": 18
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Humbug",
+      "releaseDate": "2009-08-19T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f65d720a5d70dbb93e96d528",
+      "genres": ["Indie Rock", "Psychedelic Rock"],
+      "rating": {
+        "primary": 4,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "My Propeller",
+          "rating": 3
+        },
+        {
+          "name": "Crying Lightning",
+          "rating": 4
+        },
+        {
+          "name": "Dangerous Animals",
+          "rating": 1
+        },
+        {
+          "name": "Secret Door",
+          "rating": 5
+        },
+        {
+          "name": "Potion Approaching",
+          "rating": 1
+        },
+        {
+          "name": "Fire and the Thud",
+          "rating": 4
+        },
+        {
+          "name": "Cornerstone",
+          "rating": 4
+        },
+        {
+          "name": "Dance Little Liar",
+          "rating": 3
+        },
+        {
+          "name": "Pretty Visitors",
+          "rating": 5
+        },
+        {
+          "name": "The Jeweller's Hands",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.3,
+      "id": 19
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "releaseDate": "2007-04-18T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface",
+      "genres": ["Indie Rock", "Post-punk Revival"],
+      "rating": {
+        "primary": 7,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Brianstorm",
+          "rating": 4
+        },
+        {
+          "name": "Teddy Picker",
+          "rating": 4
+        },
+        {
+          "name": "D Is for Dangerous",
+          "rating": 3
+        },
+        {
+          "name": "Balaclava",
+          "rating": 3
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "rating": 5
+        },
+        {
+          "name": "Only Ones Who Know",
+          "rating": 4
+        },
+        {
+          "name": "Do Me a Favour",
+          "rating": 5
+        },
+        {
+          "name": "This House Is a Circus",
+          "rating": 3
+        },
+        {
+          "name": "If You Were There, Beware",
+          "rating": 4
+        },
+        {
+          "name": "The Bad Thing",
+          "rating": 2
+        },
+        {
+          "name": "Old Yellow Bricks",
+          "rating": 3
+        },
+        {
+          "name": "505",
+          "rating": 6
+        }
+      ],
+      "songsAverage": 3.83,
+      "id": 20
+    },
+    {
+      "artist": "Terno Rei",
+      "album": "Violeta",
+      "releaseDate": "2019-02-01T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733b698dc45a64fd607f6bb7ea",
+      "genres": ["Dream Pop"],
+      "rating": {
+        "primary": 6,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Yoko",
+          "rating": 4
+        },
+        {
+          "name": "Dia Lindo",
+          "rating": 3
+        },
+        {
+          "name": "Solidão de Volta",
+          "rating": 4
+        },
+        {
+          "name": "93",
+          "rating": 5
+        },
+        {
+          "name": "Medo",
+          "rating": 4
+        },
+        {
+          "name": "Estava Ali",
+          "rating": 3
+        },
+        {
+          "name": "Amor-Perfeito",
+          "rating": 3
+        },
+        {
+          "name": "São Paulo",
+          "rating": 3
+        },
+        {
+          "name": "Luzes de Natal",
+          "rating": 3
+        },
+        {
+          "name": "Roda Gigante",
+          "rating": 4
+        },
+        {
+          "name": "Vento na Cara",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 3.64,
+      "id": 21
+    },
+    {
+      "artist": "Radiohead",
+      "album": "In Rainbows",
+      "releaseDate": "2007-10-10T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27334733f87148c2fbe0176abdb",
+      "genres": ["Art Rock", "Alternative Rock"],
+      "rating": {
+        "primary": 9,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "15 Step",
+          "rating": 5
+        },
+        {
+          "name": "Bodysnatchers",
+          "rating": 4
+        },
+        {
+          "name": "Nude",
+          "rating": 6
+        },
+        {
+          "name": "Weird Fishes/Arpeggi",
+          "rating": 6
+        },
+        {
+          "name": "All I Need",
+          "rating": 3
+        },
+        {
+          "name": "Faust Arp",
+          "rating": 3
+        },
+        {
+          "name": "Reckoner",
+          "rating": 5
+        },
+        {
+          "name": "House of Cards",
+          "rating": 4
+        },
+        {
+          "name": "Jigsaw Falling Into Place",
+          "rating": 4
+        },
+        {
+          "name": "Videotape",
+          "rating": 2
+        }
+      ],
+      "songsAverage": 4.2,
+      "id": 22
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory",
+      "releaseDate": "2000-10-24T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736741ca6e9ba6fdc166037321",
+      "genres": ["Nu Metal", "Rap Rock"],
+      "rating": {
+        "primary": 8,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Papercut",
+          "rating": 3
+        },
+        {
+          "name": "One Step Closer",
+          "rating": 2
+        },
+        {
+          "name": "With You",
+          "rating": 5
+        },
+        {
+          "name": "Points of Authority",
+          "rating": 4
+        },
+        {
+          "name": "Crawling",
+          "rating": 5
+        },
+        {
+          "name": "Runaway",
+          "rating": 5
+        },
+        {
+          "name": "By Myself",
+          "rating": 4
+        },
+        {
+          "name": "In the End",
+          "rating": 5
+        },
+        {
+          "name": "A Place for My Head",
+          "rating": 4
+        },
+        {
+          "name": "Forgotten",
+          "rating": 4
+        },
+        {
+          "name": "Cure for the Itch",
+          "rating": 3
+        },
+        {
+          "name": "Pushing Me Away",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.08,
+      "id": 23
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Meteora",
+      "releaseDate": "2003-03-25T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b4ad7ebaf4575f120eb3f193",
+      "genres": ["Nu Metal", "Rap Rock"],
+      "rating": {
+        "primary": 8,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Don't Stay",
+          "rating": 3
+        },
+        {
+          "name": "Somewhere I Belong",
+          "rating": 6
+        },
+        {
+          "name": "Lying from You",
+          "rating": 4
+        },
+        {
+          "name": "Hit the Floor",
+          "rating": 3
+        },
+        {
+          "name": "Easier to Run",
+          "rating": 5
+        },
+        {
+          "name": "Faint",
+          "rating": 5
+        },
+        {
+          "name": "Figure.09",
+          "rating": 4
+        },
+        {
+          "name": "Breaking the Habit",
+          "rating": 4
+        },
+        {
+          "name": "From the Inside",
+          "rating": 5
+        },
+        {
+          "name": "Nobody's Listening",
+          "rating": 2
+        },
+        {
+          "name": "Session",
+          "rating": 5
+        },
+        {
+          "name": "Numb",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.25,
+      "id": 24
+    },
+    {
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia",
+      "releaseDate": "2020-03-27T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c966c2f4e08aee0442b6b8d6",
+      "genres": ["Dance-Pop"],
+      "rating": {
+        "primary": 7,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Future Nostalgia",
+          "rating": 3
+        },
+        {
+          "name": "Don't Start Now",
+          "rating": 5
+        },
+        {
+          "name": "Cool",
+          "rating": 2
+        },
+        {
+          "name": "Physical",
+          "rating": 5
+        },
+        {
+          "name": "Levitating",
+          "rating": 4
+        },
+        {
+          "name": "Pretty Please",
+          "rating": 4
+        },
+        {
+          "name": "Hallucinate",
+          "rating": 4
+        },
+        {
+          "name": "Love Again",
+          "rating": 4
+        },
+        {
+          "name": "Break My Heart",
+          "rating": 3
+        },
+        {
+          "name": "Good In Bed",
+          "rating": 3
+        },
+        {
+          "name": "Boys Will Be Boys",
+          "rating": 2
+        }
+      ],
+      "songsAverage": 3.55,
+      "id": 25
+    },
+    {
+      "artist": "Caroline Rose",
+      "album": "Superstar",
+      "releaseDate": "2020-03-06T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c0e40fc1088b7604d92f063e",
+      "genres": ["Indie Pop"],
+      "rating": {
+        "primary": 7,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Nothing's Impossible",
+          "rating": 4
+        },
+        {
+          "name": "Got to Go My Own Way",
+          "rating": 4
+        },
+        {
+          "name": "Do You Think We'll Last Forever?",
+          "rating": 5
+        },
+        {
+          "name": "Feelings Are a Thing of the Past",
+          "rating": 3
+        },
+        {
+          "name": "Feel The Way I Want",
+          "rating": 4
+        },
+        {
+          "name": "Freak Like Me",
+          "rating": 3
+        },
+        {
+          "name": "Someone New",
+          "rating": 4
+        },
+        {
+          "name": "Pipe Dreams",
+          "rating": 4
+        },
+        {
+          "name": "Command Z",
+          "rating": 3
+        },
+        {
+          "name": "Back at the Beginning",
+          "rating": 3
+        },
+        {
+          "name": "I Took a Ride",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 3.73,
+      "id": 26
+    },
+    {
+      "artist": "The Strokes",
+      "album": "Room On Fire",
+      "releaseDate": "2003-10-28T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
+      "genres": ["Indie Rock", "Post-punk Revival"],
+      "rating": {
+        "primary": 7,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "What Ever Happened?",
+          "rating": 4
+        },
+        {
+          "name": "Reptilia",
+          "rating": 5
+        },
+        {
+          "name": "Automatic Stop",
+          "rating": 4
+        },
+        {
+          "name": "12:51",
+          "rating": 4
+        },
+        {
+          "name": "You Talk Way Too Much",
+          "rating": 4
+        },
+        {
+          "name": "Between Love & Hate",
+          "rating": 2
+        },
+        {
+          "name": "Meet Me In The Bathroom",
+          "rating": 3
+        },
+        {
+          "name": "Under Control",
+          "rating": 3
+        },
+        {
+          "name": "The Way It Is",
+          "rating": 3
+        },
+        {
+          "name": "The End Has No End",
+          "rating": 5
+        },
+        {
+          "name": "I Can't Win",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 3.82,
+      "id": 27
+    },
+    {
+      "artist": "The Strokes",
+      "album": "Angles",
+      "releaseDate": "2011-05-18T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697",
+      "genres": ["Indie Rock"],
+      "rating": {
+        "primary": 7,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Machu Picchu",
+          "rating": 4
+        },
+        {
+          "name": "Under Cover of Darkness",
+          "rating": 5
+        },
+        {
+          "name": "Two Kinds of Happiness",
+          "rating": 4
+        },
+        {
+          "name": "You're So Right",
+          "rating": 3
+        },
+        {
+          "name": "Taken for a Fool",
+          "rating": 4
+        },
+        {
+          "name": "Games",
+          "rating": 4
+        },
+        {
+          "name": "Call Me Back",
+          "rating": 4
+        },
+        {
+          "name": "Gratisfaction",
+          "rating": 4
+        },
+        {
+          "name": "Metabolism",
+          "rating": 3
+        },
+        {
+          "name": "Life Is Simple in the Moonlight",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4,
+      "id": 28
+    },
+    {
+      "artist": "Slowdive",
+      "album": "Souvlaki",
+      "releaseDate": "1993-05-17T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27353da07db25e2543cce38abfe",
+      "genres": ["Dream-Pop", "Shoegaze"],
+      "rating": {
+        "primary": 10,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Alison",
+          "rating": 6
+        },
+        {
+          "name": "Machine Gun",
+          "rating": 4
+        },
+        {
+          "name": "40 Days",
+          "rating": 4
+        },
+        {
+          "name": "Sing",
+          "rating": 5
+        },
+        {
+          "name": "Here She Comes",
+          "rating": 4
+        },
+        {
+          "name": "Souvlaki Space Station",
+          "rating": 5
+        },
+        {
+          "name": "When the Sun Hits",
+          "rating": 5
+        },
+        {
+          "name": "Altogether",
+          "rating": 4
+        },
+        {
+          "name": "Melon Yellow",
+          "rating": 4
+        },
+        {
+          "name": "Dagger",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 4.5,
+      "id": 29
+    },
+    {
+      "artist": "Interpol",
+      "album": "Antics",
+      "releaseDate": "2004-09-27T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bd3b746d86c937c4b8259b40",
+      "genres": ["Indie Rock", "Post-punk Revival"],
+      "rating": {
+        "primary": 8,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Next Exit",
+          "rating": 3
+        },
+        {
+          "name": "Evil",
+          "rating": 5
+        },
+        {
+          "name": "NARC",
+          "rating": 4
+        },
+        {
+          "name": "Take You on a Cruise",
+          "rating": 5
+        },
+        {
+          "name": "Slow Hands",
+          "rating": 4
+        },
+        {
+          "name": "Not Even Jail",
+          "rating": 4
+        },
+        {
+          "name": "Public Pervert",
+          "rating": 3
+        },
+        {
+          "name": "C'mere",
+          "rating": 5
+        },
+        {
+          "name": "Length of Love",
+          "rating": 3
+        },
+        {
+          "name": "A Time to Be So Small",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 4,
+      "id": 30
+    },
+    {
+      "artist": "MGMT",
+      "album": "Little Dark Age",
+      "releaseDate": "2018-02-09T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
+      "genres": ["Synthpop", "Psychedelic Pop"],
+      "rating": {
+        "primary": 9,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "She Works Out Too Much",
+          "rating": 3
+        },
+        {
+          "name": "Little Dark Age",
+          "rating": 5
+        },
+        {
+          "name": "When You Die",
+          "rating": 5
+        },
+        {
+          "name": "Me and Michael",
+          "rating": 5
+        },
+        {
+          "name": "TSLAMP",
+          "rating": 6
+        },
+        {
+          "name": "James",
+          "rating": 3
+        },
+        {
+          "name": "Days That Got Away",
+          "rating": 3
+        },
+        {
+          "name": "One Thing Left to Try",
+          "rating": 4
+        },
+        {
+          "name": "When You're Small",
+          "rating": 3
+        },
+        {
+          "name": "Hand It Over",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.2,
+      "id": 31
+    },
+    {
+      "artist": "The Last Shadow Puppets",
+      "album": "The Age Of The Understatement",
+      "releaseDate": "2008-04-15T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273799e8fe641673714f5ed83c6",
+      "genres": ["Indie Rock", "Chamber Pop"],
+      "rating": {
+        "primary": 7,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "The Age of the Understatement",
+          "rating": 4
+        },
+        {
+          "name": "Standing Next to Me",
+          "rating": 4
+        },
+        {
+          "name": "Calm Like You",
+          "rating": 3
+        },
+        {
+          "name": "Separate and Ever Deadly",
+          "rating": 3
+        },
+        {
+          "name": "The Chamber",
+          "rating": 5
+        },
+        {
+          "name": "Only the Truth",
+          "rating": 3
+        },
+        {
+          "name": "My Mistakes Were Made for You",
+          "rating": 5
+        },
+        {
+          "name": "Black Plant",
+          "rating": 5
+        },
+        {
+          "name": "I Don't Like You Anymore",
+          "rating": 3
+        },
+        {
+          "name": "In My Room",
+          "rating": 3
+        },
+        {
+          "name": "Meeting Place",
+          "rating": 6
+        },
+        {
+          "name": "The Time Has Come Again",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.08,
+      "id": 32
     }
   ]
 }

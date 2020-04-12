@@ -5,9 +5,11 @@ import Routes from './routes';
 
 const App: React.FC = () => {
   return (
-    <BrowserRouter>
-      <Routes />
-    </BrowserRouter>
+    <div className="flex flex-col min-h-screen">
+      <BrowserRouter>
+        <Routes />
+      </BrowserRouter>
+    </div>
   );
 };
 

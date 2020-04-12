@@ -1,5 +1,5 @@
 export interface Review {
-  id: number;
+  id?: number;
   album: string;
   artist: string;
   releaseDate: Date;
