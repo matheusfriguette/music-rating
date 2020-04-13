@@ -979,7 +979,7 @@
       "genres": ["Indie Rock", "Psychedelic Rock"],
       "rating": {
         "primary": 4,
-        "secondary": 2
+        "secondary": 3
       },
       "songs": [
         {
@@ -1210,7 +1210,7 @@
       "cover": "https://i.scdn.co/image/ab67616d0000b2736741ca6e9ba6fdc166037321",
       "genres": ["Nu Metal", "Rap Rock"],
       "rating": {
-        "primary": 8,
+        "primary": 7,
         "secondary": 3
       },
       "songs": [
@@ -1273,7 +1273,7 @@
       "cover": "https://i.scdn.co/image/ab67616d0000b273b4ad7ebaf4575f120eb3f193",
       "genres": ["Nu Metal", "Rap Rock"],
       "rating": {
-        "primary": 8,
+        "primary": 7,
         "secondary": 3
       },
       "songs": [
@@ -1566,7 +1566,7 @@
       "album": "Souvlaki",
       "releaseDate": "1993-05-17T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b27353da07db25e2543cce38abfe",
-      "genres": ["Dream-Pop", "Shoegaze"],
+      "genres": ["Dream Pop", "Shoegaze"],
       "rating": {
         "primary": 10,
         "secondary": 2
@@ -1788,6 +1788,1237 @@
       ],
       "songsAverage": 4.08,
       "id": 32
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "The Slow Rush",
+      "releaseDate": "2020-02-14T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+      "genres": ["Psychedelic Pop", "Neo-Psychedelia"],
+      "rating": {
+        "primary": 6,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "One More Year",
+          "rating": 5
+        },
+        {
+          "name": "Instant Destiny",
+          "rating": 3
+        },
+        {
+          "name": "Borderline",
+          "rating": 5
+        },
+        {
+          "name": "Posthumous Forgiveness",
+          "rating": 4
+        },
+        {
+          "name": "Breathe Deeper",
+          "rating": 4
+        },
+        {
+          "name": "Tomorrow's Dust",
+          "rating": 3
+        },
+        {
+          "name": "On Track",
+          "rating": 3
+        },
+        {
+          "name": "Lost In Yesterday",
+          "rating": 4
+        },
+        {
+          "name": "Is It True",
+          "rating": 3
+        },
+        {
+          "name": "It Might Be Time",
+          "rating": 3
+        },
+        {
+          "name": "Glimmer",
+          "rating": 2
+        },
+        {
+          "name": "One More Hour",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 3.58,
+      "id": 33
+    },
+    {
+      "artist": "Cage The Elephant",
+      "album": "Social Cues",
+      "releaseDate": "2019-04-19T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27388883701231713b18429f80b",
+      "genres": ["Indie Rock"],
+      "rating": {
+        "primary": 4,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Broken Boy",
+          "rating": 3
+        },
+        {
+          "name": "Social Cues",
+          "rating": 4
+        },
+        {
+          "name": "Black Madonna",
+          "rating": 4
+        },
+        {
+          "name": "Night Running",
+          "rating": 2
+        },
+        {
+          "name": "Skin and Bones",
+          "rating": 3
+        },
+        {
+          "name": "Ready To Let Go",
+          "rating": 3
+        },
+        {
+          "name": "House of Glass",
+          "rating": 3
+        },
+        {
+          "name": "Love's the Only Way",
+          "rating": 3
+        },
+        {
+          "name": "The War is Over",
+          "rating": 4
+        },
+        {
+          "name": "Dance Dance",
+          "rating": 3
+        },
+        {
+          "name": "What I'm Becoming",
+          "rating": 4
+        },
+        {
+          "name": "Tokyo Smoke",
+          "rating": 4
+        },
+        {
+          "name": "Goodbye",
+          "rating": 2
+        }
+      ],
+      "songsAverage": 3.23,
+      "id": 34
+    },
+    {
+      "artist": "David Bowie",
+      "album": "Blackstar",
+      "releaseDate": "2016-01-08T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734ff4ced89fcfe48079c11b37",
+      "genres": ["Art Rock"],
+      "rating": {
+        "primary": 9,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Blackstar",
+          "rating": 5
+        },
+        {
+          "name": "'Tis a Pity She Was a Whore",
+          "rating": 4
+        },
+        {
+          "name": "Lazarus",
+          "rating": 6
+        },
+        {
+          "name": "Sue (Or in a Season of Crime)",
+          "rating": 4
+        },
+        {
+          "name": "Girl Loves Me",
+          "rating": 3
+        },
+        {
+          "name": "Dollar Days",
+          "rating": 5
+        },
+        {
+          "name": "I Can't Give Everything Away",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 4.43,
+      "id": 35
+    },
+    {
+      "artist": "The Last Shadow Puppets",
+      "album": "Everything You've Come To Expect",
+      "releaseDate": "2016-04-01T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27399845928b10d57ec9f95e953",
+      "genres": ["Indie Rock", "Chamber Pop"],
+      "rating": {
+        "primary": 5,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Aviation",
+          "rating": 3
+        },
+        {
+          "name": "Miracle Aligner",
+          "rating": 5
+        },
+        {
+          "name": "Dracula Teeth",
+          "rating": 3
+        },
+        {
+          "name": "Everything You've Come To Expect",
+          "rating": 4
+        },
+        {
+          "name": "The Element of Surprise",
+          "rating": 5
+        },
+        {
+          "name": "Bad Habits",
+          "rating": 2
+        },
+        {
+          "name": "Sweet Dreams, TN",
+          "rating": 5
+        },
+        {
+          "name": "Used to Be My Girl",
+          "rating": 3
+        },
+        {
+          "name": "She Does the Woods",
+          "rating": 3
+        },
+        {
+          "name": "Pattern",
+          "rating": 3
+        },
+        {
+          "name": "The Dream Synopsis",
+          "rating": 4
+        },
+        {
+          "name": "The Bourne Identity",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.58,
+      "id": 36
+    },
+    {
+      "artist": "Ghost",
+      "album": "Prequelle",
+      "releaseDate": "2018-06-01T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273dd712ef33296be4dd442d425",
+      "genres": ["Hard Rock"],
+      "rating": {
+        "primary": 8,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Rats",
+          "rating": 4
+        },
+        {
+          "name": "Faith",
+          "rating": 4
+        },
+        {
+          "name": "See the Light",
+          "rating": 4
+        },
+        {
+          "name": "Miasma",
+          "rating": 3
+        },
+        {
+          "name": "Dance Macabre",
+          "rating": 6
+        },
+        {
+          "name": "Pro Memoria",
+          "rating": 4
+        },
+        {
+          "name": "Witch Image",
+          "rating": 5
+        },
+        {
+          "name": "Helvetesfönster",
+          "rating": 3
+        },
+        {
+          "name": "Life Eternal",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.22,
+      "id": 37
+    },
+    {
+      "artist": "Clairo",
+      "album": "Immunity",
+      "releaseDate": "2018-07-02T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc",
+      "genres": ["Indie Pop"],
+      "rating": {
+        "primary": 5,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Alewife",
+          "rating": 3
+        },
+        {
+          "name": "Impossible",
+          "rating": 4
+        },
+        {
+          "name": "Closer To You",
+          "rating": 4
+        },
+        {
+          "name": "North",
+          "rating": 2
+        },
+        {
+          "name": "Bags",
+          "rating": 5
+        },
+        {
+          "name": "Softly",
+          "rating": 5
+        },
+        {
+          "name": "Sofia",
+          "rating": 5
+        },
+        {
+          "name": "White Flag",
+          "rating": 2
+        },
+        {
+          "name": "Feel Something",
+          "rating": 3
+        },
+        {
+          "name": "Sinking",
+          "rating": 2
+        },
+        {
+          "name": "I Wouldn't Ask You",
+          "rating": 2
+        }
+      ],
+      "songsAverage": 3.36,
+      "id": 38
+    },
+    {
+      "artist": "The Smiths",
+      "album": "The Queen Is Dead",
+      "releaseDate": "1986-06-16T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9",
+      "genres": ["Indie Rock", "Jangle Pop"],
+      "rating": {
+        "primary": 10,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "The Queen Is Dead",
+          "rating": 3
+        },
+        {
+          "name": "Frankly, Mr. Shankly",
+          "rating": 3
+        },
+        {
+          "name": "I Know It's Over",
+          "rating": 5
+        },
+        {
+          "name": "Never Had No One Ever",
+          "rating": 4
+        },
+        {
+          "name": "Cemetry Gates",
+          "rating": 4
+        },
+        {
+          "name": "Bigmouth Strikes Again",
+          "rating": 5
+        },
+        {
+          "name": "The Boy With The Thorn In His Side",
+          "rating": 6
+        },
+        {
+          "name": "Vicar in a Tutu",
+          "rating": 3
+        },
+        {
+          "name": "There Is a Light That Never Goes Out",
+          "rating": 5
+        },
+        {
+          "name": "Some Girls Are Bigger Than Others",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 4.2,
+      "id": 39
+    },
+    {
+      "artist": "Kraftwerk",
+      "album": "Trans Europe Express",
+      "releaseDate": "1977-03-13T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737cf7be893131178035b2a3cb",
+      "genres": ["Electronic"],
+      "rating": {
+        "primary": 9,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Europe Endless",
+          "rating": 5
+        },
+        {
+          "name": "The Hall of Mirrors",
+          "rating": 5
+        },
+        {
+          "name": "Showroom Dummies",
+          "rating": 5
+        },
+        {
+          "name": "Trans-Europe Express",
+          "rating": 5
+        },
+        {
+          "name": "Metal on Metal",
+          "rating": 4
+        },
+        {
+          "name": "Franz Schubert",
+          "rating": 4
+        },
+        {
+          "name": "Endless Endless",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 4.43,
+      "id": 40
+    },
+    {
+      "artist": "Temples",
+      "album": "Volcano",
+      "releaseDate": "2017-03-03T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273db2adb9d920e7f4ae5ba0708",
+      "genres": ["Psychedelic Pop", "Neo-Psychedelia"],
+      "rating": {
+        "primary": 4,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Certainty",
+          "rating": 3
+        },
+        {
+          "name": "All Join In",
+          "rating": 3
+        },
+        {
+          "name": "(I Want to Be Your) Mirror",
+          "rating": 4
+        },
+        {
+          "name": "Oh The Saviour",
+          "rating": 3
+        },
+        {
+          "name": "Born Into The Sunset",
+          "rating": 3
+        },
+        {
+          "name": "How Would You Like to Go?",
+          "rating": 2
+        },
+        {
+          "name": "Open Air",
+          "rating": 4
+        },
+        {
+          "name": "In My Pocket",
+          "rating": 3
+        },
+        {
+          "name": "Celebration",
+          "rating": 2
+        },
+        {
+          "name": "Mystery Of Pop",
+          "rating": 3
+        },
+        {
+          "name": "Roman God-Like Man",
+          "rating": 1
+        },
+        {
+          "name": "Strange Or Be Forgotten",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 2.92,
+      "id": 41
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "album": "...Like Clockwork",
+      "releaseDate": "2013-05-31T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731d11a5e2159392827af124d5",
+      "genres": ["Alternative Rock", "Stoner Rock"],
+      "rating": {
+        "primary": 9,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Keep Your Eyes Peeled",
+          "rating": 4
+        },
+        {
+          "name": "I Sat by the Ocean",
+          "rating": 4
+        },
+        {
+          "name": "The Vampyre of Time and Memory",
+          "rating": 5
+        },
+        {
+          "name": "If I Had a Tail",
+          "rating": 5
+        },
+        {
+          "name": "My God Is the Sun",
+          "rating": 4
+        },
+        {
+          "name": "Kalopsia",
+          "rating": 3
+        },
+        {
+          "name": "Fairweather Friends",
+          "rating": 3
+        },
+        {
+          "name": "Smooth Sailing",
+          "rating": 2
+        },
+        {
+          "name": "I Appear Missing",
+          "rating": 6
+        },
+        {
+          "name": "…Like Clockwork",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.1,
+      "id": 42
+    },
+    {
+      "artist": "The xx",
+      "album": "I See You",
+      "releaseDate": "2017-01-13T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735f5dc0f546406ec5a96018bb",
+      "genres": ["Indietronica"],
+      "rating": {
+        "primary": 6,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Dangerous",
+          "rating": 5
+        },
+        {
+          "name": "Say Something Loving",
+          "rating": 4
+        },
+        {
+          "name": "Lips",
+          "rating": 5
+        },
+        {
+          "name": "A Violent Noise",
+          "rating": 3
+        },
+        {
+          "name": "Performance",
+          "rating": 4
+        },
+        {
+          "name": "Replica",
+          "rating": 5
+        },
+        {
+          "name": "Brave For You",
+          "rating": 3
+        },
+        {
+          "name": "On Hold",
+          "rating": 4
+        },
+        {
+          "name": "I Dare You",
+          "rating": 3
+        },
+        {
+          "name": "Test Me",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.9,
+      "id": 43
+    },
+    {
+      "artist": "Interpol",
+      "album": "El Pintor",
+      "releaseDate": "2014-09-08T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273997a63b81d47242e930e134e",
+      "genres": ["Indie Rock", "Post-punk Revival"],
+      "rating": {
+        "primary": 6,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "All the Rage Back Home",
+          "rating": 6
+        },
+        {
+          "name": "My Desire",
+          "rating": 4
+        },
+        {
+          "name": "Anywhere",
+          "rating": 5
+        },
+        {
+          "name": "Same Town, New Story",
+          "rating": 4
+        },
+        {
+          "name": "My Blue Supreme",
+          "rating": 3
+        },
+        {
+          "name": "Everything Is Wrong",
+          "rating": 3
+        },
+        {
+          "name": "Breaker 1",
+          "rating": 3
+        },
+        {
+          "name": "Ancient Ways",
+          "rating": 3
+        },
+        {
+          "name": "Tidal Wave",
+          "rating": 4
+        },
+        {
+          "name": "Twice As Hard",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.8,
+      "id": 44
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "releaseDate": "2015-07-17T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/249248e704f34007898ef0465f3c2b1c521d4347",
+      "genres": ["Psychedelic Pop", "Neo-Psychedelia"],
+      "rating": {
+        "primary": 8,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Let It Happen",
+          "rating": 6
+        },
+        {
+          "name": "Nangs",
+          "rating": 3
+        },
+        {
+          "name": "The Moment",
+          "rating": 4
+        },
+        {
+          "name": "Yes I'm Changing",
+          "rating": 5
+        },
+        {
+          "name": "Eventually",
+          "rating": 5
+        },
+        {
+          "name": "The Less I Know the Better",
+          "rating": 5
+        },
+        {
+          "name": "Past Life",
+          "rating": 4
+        },
+        {
+          "name": "Disciples",
+          "rating": 3
+        },
+        {
+          "name": "'Cause I'm A Man",
+          "rating": 2
+        },
+        {
+          "name": "Reality In Motion",
+          "rating": 3
+        },
+        {
+          "name": "Love/Paranoia",
+          "rating": 5
+        },
+        {
+          "name": "New Person, Same Old Mistakes",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 4.17,
+      "id": 45
+    },
+    {
+      "artist": "Temples",
+      "album": "Sun Structures",
+      "releaseDate": "2014-02-05T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730d29ae7a837842b6653dc166",
+      "genres": ["Neo-Psychedelia", "Psychedelic Rock"],
+      "rating": {
+        "primary": 7,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Shelter Song",
+          "rating": 4
+        },
+        {
+          "name": "Sun Structures",
+          "rating": 3
+        },
+        {
+          "name": "The Golden Throne",
+          "rating": 5
+        },
+        {
+          "name": "Keep in the Dark",
+          "rating": 4
+        },
+        {
+          "name": "Mesmerise",
+          "rating": 3
+        },
+        {
+          "name": "Move With The Season",
+          "rating": 6
+        },
+        {
+          "name": "Colours to Life",
+          "rating": 5
+        },
+        {
+          "name": "A Question Isn't Answered",
+          "rating": 3
+        },
+        {
+          "name": "The Guesser",
+          "rating": 4
+        },
+        {
+          "name": "Test of Time",
+          "rating": 3
+        },
+        {
+          "name": "Sand Dance",
+          "rating": 3
+        },
+        {
+          "name": "Fragment's Light",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.83,
+      "id": 46
+    },
+    {
+      "artist": "The Neighbourhood",
+      "album": "Wiped Out!",
+      "releaseDate": "2015-10-30T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733066581d697fbdee4303d685",
+      "genres": ["Indie Pop", "Indie Rock"],
+      "rating": {
+        "primary": 5,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Prey",
+          "rating": 5
+        },
+        {
+          "name": "Cry Baby",
+          "rating": 5
+        },
+        {
+          "name": "Wiped Out!",
+          "rating": 3
+        },
+        {
+          "name": "The Beach",
+          "rating": 3
+        },
+        {
+          "name": "Daddy Issues",
+          "rating": 3
+        },
+        {
+          "name": "Baby Came Home 2 / Valentines",
+          "rating": 2
+        },
+        {
+          "name": "Greetings from Califournia",
+          "rating": 3
+        },
+        {
+          "name": "Ferrari",
+          "rating": 1
+        },
+        {
+          "name": "Single",
+          "rating": 4
+        },
+        {
+          "name": "R.I.P. 2 My Youth",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 3.3,
+      "id": 47
+    },
+    {
+      "artist": "The Neighbourhood",
+      "album": "I Love You.",
+      "releaseDate": "2013-04-22T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27378f71c0d2fe34592a3c18f80",
+      "genres": ["Indie Pop", "Indie Rock"],
+      "rating": {
+        "primary": 4,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "How",
+          "rating": 2
+        },
+        {
+          "name": "Afraid",
+          "rating": 3
+        },
+        {
+          "name": "Everybody's Watching Me (Uh Oh)",
+          "rating": 3
+        },
+        {
+          "name": "Sweater Weather",
+          "rating": 5
+        },
+        {
+          "name": "Let It Go",
+          "rating": 3
+        },
+        {
+          "name": "Alleyways",
+          "rating": 3
+        },
+        {
+          "name": "W.D.Y.W.F.M?",
+          "rating": 3
+        },
+        {
+          "name": "Flawless",
+          "rating": 3
+        },
+        {
+          "name": "Female Robbery",
+          "rating": 4
+        },
+        {
+          "name": "Staying Up",
+          "rating": 3
+        },
+        {
+          "name": "Float",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.18,
+      "id": 48
+    },
+    {
+      "artist": "The Neighbourhood",
+      "album": "The Neighbourhood",
+      "releaseDate": "2018-03-09T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d00001e026dba960bcee44c122f515ea7",
+      "genres": ["Synthpop", "Alternative R&B"],
+      "rating": {
+        "primary": 4,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Flowers",
+          "rating": 3
+        },
+        {
+          "name": "Scary Love",
+          "rating": 2
+        },
+        {
+          "name": "Nervous",
+          "rating": 3
+        },
+        {
+          "name": "Void",
+          "rating": 5
+        },
+        {
+          "name": "Softcore",
+          "rating": 3
+        },
+        {
+          "name": "Blue",
+          "rating": 2
+        },
+        {
+          "name": "Sadderdaze",
+          "rating": 2
+        },
+        {
+          "name": "Revenge",
+          "rating": 2
+        },
+        {
+          "name": "You Get Me So High",
+          "rating": 4
+        },
+        {
+          "name": "Reflections",
+          "rating": 4
+        },
+        {
+          "name": "Too Serious",
+          "rating": 3
+        },
+        {
+          "name": "Stuck with Me",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3,
+      "id": 49
+    },
+    {
+      "artist": "Interpol",
+      "album": "Interpol",
+      "releaseDate": "2010-09-07T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273dcde83511d036f9a15e9202e",
+      "genres": ["Post-punk Revival", "Post-punk"],
+      "rating": {
+        "primary": 4,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Success",
+          "rating": 3
+        },
+        {
+          "name": "Memory Serves",
+          "rating": 3
+        },
+        {
+          "name": "Summer Well",
+          "rating": 4
+        },
+        {
+          "name": "Lights",
+          "rating": 3
+        },
+        {
+          "name": "Barricade",
+          "rating": 4
+        },
+        {
+          "name": "Always Malaise (The Man I Am)",
+          "rating": 3
+        },
+        {
+          "name": "Safe Without",
+          "rating": 3
+        },
+        {
+          "name": "Try It On",
+          "rating": 3
+        },
+        {
+          "name": "All of the Ways",
+          "rating": 2
+        },
+        {
+          "name": "The Undoing",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.1,
+      "id": 50
+    },
+    {
+      "artist": "DIIV",
+      "album": "Oshin",
+      "releaseDate": "2012-06-26T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737bc6a0c2b8d9393a2dd80cb7",
+      "genres": ["Dream Pop", "Shoegaze"],
+      "rating": {
+        "primary": 7,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "(Druun)",
+          "rating": 3
+        },
+        {
+          "name": "Past Lives",
+          "rating": 4
+        },
+        {
+          "name": "Human",
+          "rating": 4
+        },
+        {
+          "name": "Air Conditioning",
+          "rating": 4
+        },
+        {
+          "name": "How Long Have You Known?",
+          "rating": 4
+        },
+        {
+          "name": "Wait",
+          "rating": 5
+        },
+        {
+          "name": "Earthboy",
+          "rating": 3
+        },
+        {
+          "name": "(Druun Pt. II)",
+          "rating": 3
+        },
+        {
+          "name": "Follow",
+          "rating": 4
+        },
+        {
+          "name": "Sometime",
+          "rating": 5
+        },
+        {
+          "name": "Oshin (Subsume)",
+          "rating": 3
+        },
+        {
+          "name": "Doused",
+          "rating": 6
+        },
+        {
+          "name": "Home",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 4,
+      "id": 51
+    },
+    {
+      "artist": "Declan McKenna",
+      "album": "What Do You Think About The Car?",
+      "releaseDate": "2017-07-21T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e",
+      "genres": ["Indie Rock", "Indie Pop"],
+      "rating": {
+        "primary": 6,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Humongous",
+          "rating": 5
+        },
+        {
+          "name": "Brazil",
+          "rating": 4
+        },
+        {
+          "name": "The Kids Don't Wanna Come Home",
+          "rating": 2
+        },
+        {
+          "name": "Mind",
+          "rating": 3
+        },
+        {
+          "name": "Make Me Your Queen",
+          "rating": 5
+        },
+        {
+          "name": "Isombard",
+          "rating": 3
+        },
+        {
+          "name": "I Am Everyone Else",
+          "rating": 2
+        },
+        {
+          "name": "Bethlehem",
+          "rating": 3
+        },
+        {
+          "name": "Why Do You Feel So Down",
+          "rating": 4
+        },
+        {
+          "name": "Paracetamol",
+          "rating": 4
+        },
+        {
+          "name": "Listen To Your Friends",
+          "rating": 2
+        }
+      ],
+      "songsAverage": 3.36,
+      "id": 52
+    },
+    {
+      "artist": "The 1975",
+      "album": "A Brief Inquiry Into Online Relationships",
+      "releaseDate": "2018-11-30T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736c582022e90b11f0da287a9a",
+      "genres": ["Art Pop"],
+      "rating": {
+        "primary": 6,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "The 1975",
+          "rating": 2
+        },
+        {
+          "name": "Give Yourself A Try",
+          "rating": 4
+        },
+        {
+          "name": "TOOTIMETOOTIMETOOTIME",
+          "rating": 4
+        },
+        {
+          "name": "How To Draw / Petrichor",
+          "rating": 3
+        },
+        {
+          "name": "Love It If We Made It",
+          "rating": 6
+        },
+        {
+          "name": "Be My Mistake",
+          "rating": 3
+        },
+        {
+          "name": "Sincerity Is Scary",
+          "rating": 5
+        },
+        {
+          "name": "I Like America & America Likes Me",
+          "rating": 3
+        },
+        {
+          "name": "The Man Who Married a Robot / Love Theme",
+          "rating": 1
+        },
+        {
+          "name": "Inside Your Mind",
+          "rating": 2
+        },
+        {
+          "name": "It's Not Living (If It's Not with You)",
+          "rating": 5
+        },
+        {
+          "name": "Surrounded By Heads and Bodies",
+          "rating": 2
+        },
+        {
+          "name": "Mine",
+          "rating": 3
+        },
+        {
+          "name": "I Couldn't Be More In Love",
+          "rating": 4
+        },
+        {
+          "name": "I Always Wanna Die (Sometimes)",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 3.47,
+      "id": 53
     }
   ]
 }
