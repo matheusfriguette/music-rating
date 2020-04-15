@@ -8,7 +8,8 @@ const Routes: React.FC = () => {
   return (
     <Switch>
       <Route path="/" exact component={Index} />
-      <Route path="/insert" component={Insert} />
+      <Route path="/insert" exact component={Insert} />
+      <Route path="/insert/:id" component={Insert} />
     </Switch>
   );
 };

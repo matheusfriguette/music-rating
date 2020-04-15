@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Formik, Form, FieldArray, FormikProps } from 'formik';
-import { Link, useHistory } from 'react-router-dom';
+import { Link, useHistory, useParams } from 'react-router-dom';
 
 import Input from './input';
 import Select from './select';
@@ -9,8 +9,9 @@ import { Review } from '../../music-rating';
 
 const Insert: React.FC = () => {
   const history = useHistory();
+  const { id } = useParams();
 
-  const initialValues = {
+  const [initialValues, setInitialValues] = useState({
     artist: '',
     album: '',
     releaseDate: '',
@@ -26,13 +27,33 @@ const Insert: React.FC = () => {
         rating: '',
       },
     ],
-  };
+  });
 
   const secondaryRatingOptions = [
     { text: 'Light', value: 1 },
     { text: 'Decent', value: 2 },
     { text: 'Strong', value: 3 },
   ];
+
+  useEffect(() => {
+    const getReview = async () => {
+      const response = await api.get(`/reviews/${id}`);
+
+      setInitialValues({
+        artist: response.data.artist,
+        album: response.data.album,
+        releaseDate: response.data.releaseDate.split('T')[0],
+        cover: response.data.cover,
+        genres: response.data.genres.join(', '),
+        rating: response.data.rating,
+        songs: response.data.songs,
+      });
+    };
+
+    if (id !== undefined) {
+      getReview();
+    }
+  }, [id]);
 
   const searchAlbum = async (values: any, setValues: (obj: any) => void) => {
     const response = await lastFmApi.get(
@@ -52,6 +73,7 @@ const Insert: React.FC = () => {
   return (
     <Formik
       initialValues={initialValues}
+      enableReinitialize={true}
       onSubmit={async (values, { setSubmitting }) => {
         const review: Review = {
           artist: values.artist,
@@ -80,10 +102,17 @@ const Insert: React.FC = () => {
           ),
         };
 
-        await api.post('reviews', review).then(() => {
-          setSubmitting(false);
-          history.push('/');
-        });
+        if (id !== undefined) {
+          await api.put(`reviews/${id}`, review).then(() => {
+            setSubmitting(false);
+            history.push('/');
+          });
+        } else {
+          await api.post('reviews', review).then(() => {
+            setSubmitting(false);
+            history.push('/');
+          });
+        }
       }}
     >
       {({ values, setValues }: FormikProps<any>) => (

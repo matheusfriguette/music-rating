@@ -5,7 +5,10 @@
       "album": "Unknown Pleasures",
       "releaseDate": "1979-06-15",
       "cover": "https://i.scdn.co/image/ab67616d0000b2733fb6bc46c932ca1ab168526a",
-      "genres": ["Post-punk", "Gothic Rock"],
+      "genres": [
+        "Post-punk",
+        "Gothic Rock"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 2
@@ -60,7 +63,10 @@
       "album": "Turn On The Bright Lights",
       "releaseDate": "2002-08-20T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273d3dbd74f07f1b7d86be24cd0",
-      "genres": ["Post-punk Revival", "Post-punk"],
+      "genres": [
+        "Post-punk Revival",
+        "Post-punk"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 3
@@ -119,7 +125,10 @@
       "album": "OK Computer",
       "releaseDate": "1997-06-16T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf",
-      "genres": ["Alternative Rock", "Art Rock"],
+      "genres": [
+        "Alternative Rock",
+        "Art Rock"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 3
@@ -182,7 +191,10 @@
       "album": "Titanic Rising",
       "releaseDate": "2019-04-05T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2735676fba9c44ba772deb81727",
-      "genres": ["Art Pop", "Baroque Pop"],
+      "genres": [
+        "Art Pop",
+        "Baroque Pop"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 2
@@ -237,10 +249,13 @@
       "album": "Tranquility Base Hotel & Casino",
       "releaseDate": "2018-05-11T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b27329d0706875760373af2812f1",
-      "genres": ["Lounge", "Psychedelic Rock"],
+      "genres": [
+        "Lounge",
+        "Psychedelic Rock"
+      ],
       "rating": {
-        "primary": 10,
-        "secondary": 1
+        "primary": 9,
+        "secondary": 2
       },
       "songs": [
         {
@@ -296,7 +311,10 @@
       "album": "Is This It",
       "releaseDate": "2001-07-30T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/4dd3a9aa1a8dc5b9a49397caa67aff6ae8e7b642",
-      "genres": ["Indie Rock", "Post-punk Revival"],
+      "genres": [
+        "Indie Rock",
+        "Post-punk Revival"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 3
@@ -355,7 +373,10 @@
       "album": "Closer",
       "releaseDate": "1980-06-18T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273e757df971b9ca423735ff3e9",
-      "genres": ["Post-punk", "Gothic Rock"],
+      "genres": [
+        "Post-punk",
+        "Gothic Rock"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 3
@@ -406,7 +427,9 @@
       "album": "Remain In Light",
       "releaseDate": "1980-10-08T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273f9e2d82b9969defab2105859",
-      "genres": ["New Wave"],
+      "genres": [
+        "New Wave"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 2
@@ -453,7 +476,9 @@
       "album": "Norte",
       "releaseDate": "2015-08-07T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273e6481792bc711780870a74cf",
-      "genres": ["Pop Rock"],
+      "genres": [
+        "Pop Rock"
+      ],
       "rating": {
         "primary": 4,
         "secondary": 2
@@ -516,7 +541,10 @@
       "album": "Belladonna of Sadness",
       "releaseDate": "2017-04-07T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273b9df7275ff80a60fa1272835",
-      "genres": ["Indie Pop", "Dream Pop"],
+      "genres": [
+        "Indie Pop",
+        "Dream Pop"
+      ],
       "rating": {
         "primary": 6,
         "secondary": 2
@@ -575,7 +603,10 @@
       "album": "The Archer",
       "releaseDate": "2020-01-10T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/3e3d94eecd3868e7fdb7330ed1f45a394d052124",
-      "genres": ["Indie Pop", "Dream Pop"],
+      "genres": [
+        "Indie Pop",
+        "Dream Pop"
+      ],
       "rating": {
         "primary": 6,
         "secondary": 1
@@ -630,7 +661,10 @@
       "album": "Alvvays",
       "releaseDate": "2014-07-22T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273ce93b2fc719ae92dacec2b4b",
-      "genres": ["Dream Pop", "Jangle Pop"],
+      "genres": [
+        "Dream Pop",
+        "Jangle Pop"
+      ],
       "rating": {
         "primary": 8,
         "secondary": 1
@@ -681,7 +715,10 @@
       "album": "Antisocialites",
       "releaseDate": "2017-11-08T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273ad8f67f5f03d44e215deea50",
-      "genres": ["Dream Pop", "Jangle Pop"],
+      "genres": [
+        "Dream Pop",
+        "Jangle Pop"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 3
@@ -736,7 +773,10 @@
       "album": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
       "releaseDate": "1972-06-16T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273ce928bc5dc2ed4d8e6d82366",
-      "genres": ["Glam Rock", "Art Rock"],
+      "genres": [
+        "Glam Rock",
+        "Art Rock"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 3
@@ -795,7 +835,9 @@
       "album": "Bloom",
       "releaseDate": "2012-05-15T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273490a886fd5517388d3b066c8",
-      "genres": ["Dream Pop"],
+      "genres": [
+        "Dream Pop"
+      ],
       "rating": {
         "primary": 8,
         "secondary": 3
@@ -850,7 +892,9 @@
       "album": "AM",
       "releaseDate": "2013-11-09T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-      "genres": ["Indie Rock"],
+      "genres": [
+        "Indie Rock"
+      ],
       "rating": {
         "primary": 5,
         "secondary": 3
@@ -913,7 +957,9 @@
       "album": "Suck It And See",
       "releaseDate": "2011-06-06T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2734e1e57eb66ed6b41ac8badd1",
-      "genres": ["Indie Rock"],
+      "genres": [
+        "Indie Rock"
+      ],
       "rating": {
         "primary": 5,
         "secondary": 1
@@ -976,7 +1022,10 @@
       "album": "Humbug",
       "releaseDate": "2009-08-19T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273f65d720a5d70dbb93e96d528",
-      "genres": ["Indie Rock", "Psychedelic Rock"],
+      "genres": [
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
       "rating": {
         "primary": 4,
         "secondary": 3
@@ -1031,7 +1080,10 @@
       "album": "Favourite Worst Nightmare",
       "releaseDate": "2007-04-18T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface",
-      "genres": ["Indie Rock", "Post-punk Revival"],
+      "genres": [
+        "Indie Rock",
+        "Post-punk Revival"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 2
@@ -1094,7 +1146,9 @@
       "album": "Violeta",
       "releaseDate": "2019-02-01T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2733b698dc45a64fd607f6bb7ea",
-      "genres": ["Dream Pop"],
+      "genres": [
+        "Dream Pop"
+      ],
       "rating": {
         "primary": 6,
         "secondary": 1
@@ -1153,7 +1207,10 @@
       "album": "In Rainbows",
       "releaseDate": "2007-10-10T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b27334733f87148c2fbe0176abdb",
-      "genres": ["Art Rock", "Alternative Rock"],
+      "genres": [
+        "Art Rock",
+        "Alternative Rock"
+      ],
       "rating": {
         "primary": 9,
         "secondary": 2
@@ -1208,7 +1265,10 @@
       "album": "Hybrid Theory",
       "releaseDate": "2000-10-24T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2736741ca6e9ba6fdc166037321",
-      "genres": ["Nu Metal", "Rap Rock"],
+      "genres": [
+        "Nu Metal",
+        "Rap Rock"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 3
@@ -1271,7 +1331,10 @@
       "album": "Meteora",
       "releaseDate": "2003-03-25T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273b4ad7ebaf4575f120eb3f193",
-      "genres": ["Nu Metal", "Rap Rock"],
+      "genres": [
+        "Nu Metal",
+        "Rap Rock"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 3
@@ -1334,7 +1397,9 @@
       "album": "Future Nostalgia",
       "releaseDate": "2020-03-27T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273c966c2f4e08aee0442b6b8d6",
-      "genres": ["Dance-Pop"],
+      "genres": [
+        "Dance-Pop"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 1
@@ -1393,7 +1458,9 @@
       "album": "Superstar",
       "releaseDate": "2020-03-06T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273c0e40fc1088b7604d92f063e",
-      "genres": ["Indie Pop"],
+      "genres": [
+        "Indie Pop"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 3
@@ -1452,7 +1519,10 @@
       "album": "Room On Fire",
       "releaseDate": "2003-10-28T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
-      "genres": ["Indie Rock", "Post-punk Revival"],
+      "genres": [
+        "Indie Rock",
+        "Post-punk Revival"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 2
@@ -1511,7 +1581,9 @@
       "album": "Angles",
       "releaseDate": "2011-05-18T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697",
-      "genres": ["Indie Rock"],
+      "genres": [
+        "Indie Rock"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 1
@@ -1566,7 +1638,10 @@
       "album": "Souvlaki",
       "releaseDate": "1993-05-17T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b27353da07db25e2543cce38abfe",
-      "genres": ["Dream Pop", "Shoegaze"],
+      "genres": [
+        "Dream Pop",
+        "Shoegaze"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 2
@@ -1621,7 +1696,10 @@
       "album": "Antics",
       "releaseDate": "2004-09-27T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273bd3b746d86c937c4b8259b40",
-      "genres": ["Indie Rock", "Post-punk Revival"],
+      "genres": [
+        "Indie Rock",
+        "Post-punk Revival"
+      ],
       "rating": {
         "primary": 8,
         "secondary": 1
@@ -1676,7 +1754,10 @@
       "album": "Little Dark Age",
       "releaseDate": "2018-02-09T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
-      "genres": ["Synthpop", "Psychedelic Pop"],
+      "genres": [
+        "Synthpop",
+        "Psychedelic Pop"
+      ],
       "rating": {
         "primary": 9,
         "secondary": 1
@@ -1731,7 +1812,10 @@
       "album": "The Age Of The Understatement",
       "releaseDate": "2008-04-15T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273799e8fe641673714f5ed83c6",
-      "genres": ["Indie Rock", "Chamber Pop"],
+      "genres": [
+        "Indie Rock",
+        "Chamber Pop"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 2
@@ -1794,7 +1878,10 @@
       "album": "The Slow Rush",
       "releaseDate": "2020-02-14T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
-      "genres": ["Psychedelic Pop", "Neo-Psychedelia"],
+      "genres": [
+        "Psychedelic Pop",
+        "Neo-Psychedelia"
+      ],
       "rating": {
         "primary": 6,
         "secondary": 1
@@ -1857,7 +1944,9 @@
       "album": "Social Cues",
       "releaseDate": "2019-04-19T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b27388883701231713b18429f80b",
-      "genres": ["Indie Rock"],
+      "genres": [
+        "Indie Rock"
+      ],
       "rating": {
         "primary": 4,
         "secondary": 1
@@ -1924,7 +2013,9 @@
       "album": "Blackstar",
       "releaseDate": "2016-01-08T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2734ff4ced89fcfe48079c11b37",
-      "genres": ["Art Rock"],
+      "genres": [
+        "Art Rock"
+      ],
       "rating": {
         "primary": 9,
         "secondary": 1
@@ -1967,7 +2058,10 @@
       "album": "Everything You've Come To Expect",
       "releaseDate": "2016-04-01T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b27399845928b10d57ec9f95e953",
-      "genres": ["Indie Rock", "Chamber Pop"],
+      "genres": [
+        "Indie Rock",
+        "Chamber Pop"
+      ],
       "rating": {
         "primary": 5,
         "secondary": 3
@@ -2030,7 +2124,9 @@
       "album": "Prequelle",
       "releaseDate": "2018-06-01T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273dd712ef33296be4dd442d425",
-      "genres": ["Hard Rock"],
+      "genres": [
+        "Hard Rock"
+      ],
       "rating": {
         "primary": 8,
         "secondary": 2
@@ -2081,7 +2177,9 @@
       "album": "Immunity",
       "releaseDate": "2018-07-02T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc",
-      "genres": ["Indie Pop"],
+      "genres": [
+        "Indie Pop"
+      ],
       "rating": {
         "primary": 5,
         "secondary": 2
@@ -2140,7 +2238,10 @@
       "album": "The Queen Is Dead",
       "releaseDate": "1986-06-16T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9",
-      "genres": ["Indie Rock", "Jangle Pop"],
+      "genres": [
+        "Indie Rock",
+        "Jangle Pop"
+      ],
       "rating": {
         "primary": 10,
         "secondary": 1
@@ -2195,7 +2296,9 @@
       "album": "Trans Europe Express",
       "releaseDate": "1977-03-13T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2737cf7be893131178035b2a3cb",
-      "genres": ["Electronic"],
+      "genres": [
+        "Electronic"
+      ],
       "rating": {
         "primary": 9,
         "secondary": 3
@@ -2238,7 +2341,10 @@
       "album": "Volcano",
       "releaseDate": "2017-03-03T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273db2adb9d920e7f4ae5ba0708",
-      "genres": ["Psychedelic Pop", "Neo-Psychedelia"],
+      "genres": [
+        "Psychedelic Pop",
+        "Neo-Psychedelia"
+      ],
       "rating": {
         "primary": 4,
         "secondary": 1
@@ -2301,7 +2407,10 @@
       "album": "...Like Clockwork",
       "releaseDate": "2013-05-31T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2731d11a5e2159392827af124d5",
-      "genres": ["Alternative Rock", "Stoner Rock"],
+      "genres": [
+        "Alternative Rock",
+        "Stoner Rock"
+      ],
       "rating": {
         "primary": 9,
         "secondary": 1
@@ -2356,7 +2465,9 @@
       "album": "I See You",
       "releaseDate": "2017-01-13T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2735f5dc0f546406ec5a96018bb",
-      "genres": ["Indietronica"],
+      "genres": [
+        "Indietronica"
+      ],
       "rating": {
         "primary": 6,
         "secondary": 3
@@ -2411,7 +2522,10 @@
       "album": "El Pintor",
       "releaseDate": "2014-09-08T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273997a63b81d47242e930e134e",
-      "genres": ["Indie Rock", "Post-punk Revival"],
+      "genres": [
+        "Indie Rock",
+        "Post-punk Revival"
+      ],
       "rating": {
         "primary": 6,
         "secondary": 2
@@ -2466,7 +2580,10 @@
       "album": "Currents",
       "releaseDate": "2015-07-17T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/249248e704f34007898ef0465f3c2b1c521d4347",
-      "genres": ["Psychedelic Pop", "Neo-Psychedelia"],
+      "genres": [
+        "Psychedelic Pop",
+        "Neo-Psychedelia"
+      ],
       "rating": {
         "primary": 8,
         "secondary": 1
@@ -2529,10 +2646,13 @@
       "album": "Sun Structures",
       "releaseDate": "2014-02-05T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2730d29ae7a837842b6653dc166",
-      "genres": ["Neo-Psychedelia", "Psychedelic Rock"],
+      "genres": [
+        "Neo-Psychedelia",
+        "Psychedelic Rock"
+      ],
       "rating": {
-        "primary": 7,
-        "secondary": 1
+        "primary": 6,
+        "secondary": 3
       },
       "songs": [
         {
@@ -2592,7 +2712,10 @@
       "album": "Wiped Out!",
       "releaseDate": "2015-10-30T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2733066581d697fbdee4303d685",
-      "genres": ["Indie Pop", "Indie Rock"],
+      "genres": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
       "rating": {
         "primary": 5,
         "secondary": 1
@@ -2647,7 +2770,10 @@
       "album": "I Love You.",
       "releaseDate": "2013-04-22T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b27378f71c0d2fe34592a3c18f80",
-      "genres": ["Indie Pop", "Indie Rock"],
+      "genres": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
       "rating": {
         "primary": 4,
         "secondary": 2
@@ -2706,7 +2832,10 @@
       "album": "The Neighbourhood",
       "releaseDate": "2018-03-09T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d00001e026dba960bcee44c122f515ea7",
-      "genres": ["Synthpop", "Alternative R&B"],
+      "genres": [
+        "Synthpop",
+        "Alternative R&B"
+      ],
       "rating": {
         "primary": 4,
         "secondary": 2
@@ -2769,7 +2898,10 @@
       "album": "Interpol",
       "releaseDate": "2010-09-07T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273dcde83511d036f9a15e9202e",
-      "genres": ["Post-punk Revival", "Post-punk"],
+      "genres": [
+        "Post-punk Revival",
+        "Post-punk"
+      ],
       "rating": {
         "primary": 4,
         "secondary": 2
@@ -2824,7 +2956,10 @@
       "album": "Oshin",
       "releaseDate": "2012-06-26T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2737bc6a0c2b8d9393a2dd80cb7",
-      "genres": ["Dream Pop", "Shoegaze"],
+      "genres": [
+        "Dream Pop",
+        "Shoegaze"
+      ],
       "rating": {
         "primary": 7,
         "secondary": 3
@@ -2891,7 +3026,10 @@
       "album": "What Do You Think About The Car?",
       "releaseDate": "2017-07-21T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e",
-      "genres": ["Indie Rock", "Indie Pop"],
+      "genres": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
       "rating": {
         "primary": 6,
         "secondary": 1
@@ -2950,7 +3088,9 @@
       "album": "A Brief Inquiry Into Online Relationships",
       "releaseDate": "2018-11-30T00:00:00.000Z",
       "cover": "https://i.scdn.co/image/ab67616d0000b2736c582022e90b11f0da287a9a",
-      "genres": ["Art Pop"],
+      "genres": [
+        "Art Pop"
+      ],
       "rating": {
         "primary": 6,
         "secondary": 3
@@ -3019,6 +3159,410 @@
       ],
       "songsAverage": 3.47,
       "id": 53
+    },
+    {
+      "artist": "FKA Twigs",
+      "album": "MAGDALENE",
+      "releaseDate": "2019-10-10T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273eae0ec108e9db33c4bcb29d0",
+      "genres": [
+        "Art Pop"
+      ],
+      "rating": {
+        "primary": 7,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "thousand eyes",
+          "rating": 5
+        },
+        {
+          "name": "home with you",
+          "rating": 4
+        },
+        {
+          "name": "sad day",
+          "rating": 4
+        },
+        {
+          "name": "holy terrain",
+          "rating": 2
+        },
+        {
+          "name": "mary magdalene",
+          "rating": 5
+        },
+        {
+          "name": "fallen alien",
+          "rating": 4
+        },
+        {
+          "name": "mirrored heart",
+          "rating": 3
+        },
+        {
+          "name": "daybed",
+          "rating": 2
+        },
+        {
+          "name": "cellophane",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 3.78,
+      "id": 54
+    },
+    {
+      "artist": "Radiohead",
+      "album": "The Bends",
+      "releaseDate": "2013-05-13T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2",
+      "genres": [
+        "Alternative Rock"
+      ],
+      "rating": {
+        "primary": 7,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Planet Telex",
+          "rating": 3
+        },
+        {
+          "name": "The Bends",
+          "rating": 3
+        },
+        {
+          "name": "High and Dry",
+          "rating": 4
+        },
+        {
+          "name": "Fake Plastic Trees",
+          "rating": 4
+        },
+        {
+          "name": "Bones",
+          "rating": 3
+        },
+        {
+          "name": "(Nice Dream)",
+          "rating": 4
+        },
+        {
+          "name": "Just",
+          "rating": 3
+        },
+        {
+          "name": "My Iron Lung",
+          "rating": 4
+        },
+        {
+          "name": "Bullet Proof..I Wish I Was",
+          "rating": 4
+        },
+        {
+          "name": "Black Star",
+          "rating": 5
+        },
+        {
+          "name": "Sulk",
+          "rating": 3
+        },
+        {
+          "name": "Street Spirit (Fade Out)",
+          "rating": 5
+        }
+      ],
+      "songsAverage": 3.75,
+      "id": 55
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "album": "Villains",
+      "releaseDate": "2017-08-25T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c96f7c7b077c224975b4c5ce",
+      "genres": [
+        "Alternative Rock"
+      ],
+      "rating": {
+        "primary": 7,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Feet Don't Fail Me",
+          "rating": 5
+        },
+        {
+          "name": "The Way You Used to Do",
+          "rating": 4
+        },
+        {
+          "name": "Domesticated Animals",
+          "rating": 4
+        },
+        {
+          "name": "Fortress",
+          "rating": 4
+        },
+        {
+          "name": "Head Like a Haunted House",
+          "rating": 4
+        },
+        {
+          "name": "Un-Reborn Again",
+          "rating": 5
+        },
+        {
+          "name": "Hideaway",
+          "rating": 4
+        },
+        {
+          "name": "The Evil Has Landed",
+          "rating": 3
+        },
+        {
+          "name": "Villains of Circumstance",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 4,
+      "id": 56
+    },
+    {
+      "artist": "Lana Del Rey",
+      "album": "Norman Fucking Rockwell!",
+      "releaseDate": "2019-09-18T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273db58320165892f952a6ddb3f",
+      "genres": [
+        "Art Pop"
+      ],
+      "rating": {
+        "primary": 8,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "Norman fucking Rockwell",
+          "rating": 3
+        },
+        {
+          "name": "Mariners Apartment Complex",
+          "rating": 6
+        },
+        {
+          "name": "Venice Bitch",
+          "rating": 5
+        },
+        {
+          "name": "Fuck it I love you",
+          "rating": 4
+        },
+        {
+          "name": "Doin' Time",
+          "rating": 4
+        },
+        {
+          "name": "Love song",
+          "rating": 3
+        },
+        {
+          "name": "Cinnamon Girl",
+          "rating": 3
+        },
+        {
+          "name": "How to disappear",
+          "rating": 2
+        },
+        {
+          "name": "California",
+          "rating": 5
+        },
+        {
+          "name": "The Next Best American Record",
+          "rating": 3
+        },
+        {
+          "name": "The greatest",
+          "rating": 4
+        },
+        {
+          "name": "Bartender",
+          "rating": 4
+        },
+        {
+          "name": "Happiness is a butterfly",
+          "rating": 3
+        },
+        {
+          "name": "hope is a dangerous thing for a woman like me to have - but I have it",
+          "rating": 4
+        }
+      ],
+      "songsAverage": 3.79,
+      "id": 57
+    },
+    {
+      "artist": "Angel Olsen",
+      "album": "MY WOMAN",
+      "releaseDate": "2016-09-02T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27374a77e48d8042b1b53280660",
+      "genres": [
+        "Indie Rock"
+      ],
+      "rating": {
+        "primary": 8,
+        "secondary": 2
+      },
+      "songs": [
+        {
+          "name": "Intern",
+          "rating": 3
+        },
+        {
+          "name": "Never Be Mine",
+          "rating": 5
+        },
+        {
+          "name": "Shut Up Kiss Me",
+          "rating": 4
+        },
+        {
+          "name": "Give It Up",
+          "rating": 4
+        },
+        {
+          "name": "Not Gonna Kill You",
+          "rating": 3
+        },
+        {
+          "name": "Heart Shaped Face",
+          "rating": 4
+        },
+        {
+          "name": "Sister",
+          "rating": 4
+        },
+        {
+          "name": "Those Were The Days",
+          "rating": 3
+        },
+        {
+          "name": "Woman",
+          "rating": 5
+        },
+        {
+          "name": "Pops",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 3.8,
+      "id": 58
+    },
+    {
+      "artist": "The Strokes",
+      "album": "The New Abnormal",
+      "releaseDate": "2020-04-10T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02bfa99afb5ef0d26d5064b23b",
+      "genres": [
+        "Indie Rock"
+      ],
+      "rating": {
+        "primary": 9,
+        "secondary": 1
+      },
+      "songs": [
+        {
+          "name": "The Adults Are Talking",
+          "rating": 5
+        },
+        {
+          "name": "Selfless",
+          "rating": 5
+        },
+        {
+          "name": "Brooklyn Bridge to Chorus",
+          "rating": 4
+        },
+        {
+          "name": "Bad Decisions",
+          "rating": 4
+        },
+        {
+          "name": "Eternal Summer",
+          "rating": 5
+        },
+        {
+          "name": "At The Door",
+          "rating": 4
+        },
+        {
+          "name": "Why Are Sunday's So Depressing",
+          "rating": 4
+        },
+        {
+          "name": "Not the Same Anymore",
+          "rating": 4
+        },
+        {
+          "name": "Ode to the Mets",
+          "rating": 6
+        }
+      ],
+      "songsAverage": 4.56,
+      "id": 59
+    },
+    {
+      "artist": "Slowdive",
+      "album": "Slowdive",
+      "releaseDate": "2017-05-05T00:00:00.000Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737d08dfce0cb20cf7ed9da031",
+      "genres": [
+        "Dream Pop",
+        "Shoegaze"
+      ],
+      "rating": {
+        "primary": 8,
+        "secondary": 3
+      },
+      "songs": [
+        {
+          "name": "Slomo",
+          "rating": 5
+        },
+        {
+          "name": "Star Roving",
+          "rating": 4
+        },
+        {
+          "name": "Don't Know Why",
+          "rating": 5
+        },
+        {
+          "name": "Sugar For The Pill",
+          "rating": 6
+        },
+        {
+          "name": "Everyone Knows",
+          "rating": 4
+        },
+        {
+          "name": "No Longer Making Time",
+          "rating": 3
+        },
+        {
+          "name": "Go Get It",
+          "rating": 4
+        },
+        {
+          "name": "Falling Ashes",
+          "rating": 3
+        }
+      ],
+      "songsAverage": 4.25,
+      "id": 60
     }
   ]
 }
