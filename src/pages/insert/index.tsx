@@ -17,6 +17,7 @@ const Insert: React.FC = () => {
     releaseDate: '',
     cover: 'https://i.scdn.co/image/',
     genres: '',
+    country: '',
     rating: {
       primary: '',
       secondary: '1',
@@ -45,6 +46,7 @@ const Insert: React.FC = () => {
         releaseDate: response.data.releaseDate.split('T')[0],
         cover: response.data.cover,
         genres: response.data.genres.join(', '),
+        country: response.data.country,
         rating: response.data.rating,
         songs: response.data.songs,
       });
@@ -81,6 +83,7 @@ const Insert: React.FC = () => {
           releaseDate: new Date(values.releaseDate),
           cover: values.cover,
           genres: values.genres.split(', '),
+          country: values.country,
           rating: {
             primary: parseInt(values.rating.primary),
             secondary: parseInt(values.rating.secondary),
@@ -135,14 +138,17 @@ const Insert: React.FC = () => {
                     </div>
                   </div>
                   <div className="flex flex-wrap -mx-2">
-                    <div className="w-full lg:w-1/2 p-2">
+                    <div className="w-full lg:w-1/3 p-2">
                       <Input
                         label="Release Date"
                         type="date"
                         name="releaseDate"
                       />
                     </div>
-                    <div className="w-full lg:w-1/2 p-2">
+                    <div className="w-full lg:w-1/3 p-2">
+                      <Input label="Country" type="text" name="country" />
+                    </div>
+                    <div className="w-full lg:w-1/3 p-2">
                       <Input label="Cover" type="text" name="cover" />
                     </div>
                   </div>

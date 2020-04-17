@@ -12,12 +12,14 @@ interface Filter {
   artist: string;
   releaseDate: string;
   genre: string;
+  country: string;
 }
 
 interface FilterOptions {
   artists: string[];
   releaseYear: string[];
   genres: string[];
+  countries: string[];
 }
 
 const Filter: React.FC<Props> = ({ filter, setFilter }) => {
@@ -25,6 +27,7 @@ const Filter: React.FC<Props> = ({ filter, setFilter }) => {
     artists: [],
     releaseYear: [],
     genres: [],
+    countries: [],
   });
 
   useEffect(() => {
@@ -46,6 +49,9 @@ const Filter: React.FC<Props> = ({ filter, setFilter }) => {
         ).sort((a: any, b: any) => b - a),
         genres: Array.from<string>(
           new Set(response.data.map((review: Review) => review.genres).flat()),
+        ).sort(),
+        countries: Array.from<string>(
+          new Set(response.data.map((review: Review) => review.country)),
         ).sort(),
       });
     };
@@ -115,6 +121,26 @@ const Filter: React.FC<Props> = ({ filter, setFilter }) => {
               {filterOptions.genres.map((genre) => (
                 <option key={genre} value={genre}>
                   {genre}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
+        <div className="mt-4">
+          <label htmlFor="filter-country">
+            <span className="block font-medium text-sm">Country</span>
+            <select
+              className="mt-1 w-full text-sm border rounded px-2 py-1 focus:outline-none"
+              id="filter-country"
+              value={filter.country}
+              onChange={(e) =>
+                setFilter({ ...filter, country: e.target.value })
+              }
+            >
+              <option value="">All</option>
+              {filterOptions.countries.map((country) => (
+                <option key={country} value={country}>
+                  {country}
                 </option>
               ))}
             </select>

@@ -6,6 +6,7 @@ export interface Review {
   formattedReleaseDate?: string;
   cover: string;
   genres: string[];
+  country: string;
   rating: Rating;
   songs: Song[];
   songsAverage: number;

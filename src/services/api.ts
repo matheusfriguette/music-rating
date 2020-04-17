@@ -1,8 +1,10 @@
 import axios from 'axios';
 
 export const api = axios.create({
-  // baseURL: 'http://localhost:3101/',
-  baseURL: 'https://music-rating-api.herokuapp.com',
+  baseURL:
+    process.env.NODE_ENV === 'production'
+      ? 'https://music-rating-api.herokuapp.com'
+      : 'http://localhost:3101/',
 });
 
 export const lastFmApi = axios.create({

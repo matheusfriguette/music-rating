@@ -14,10 +14,11 @@ const Index: React.FC = () => {
     artist: '',
     releaseDate: '',
     genre: '',
+    country: '',
   });
 
   const getReviews = async () => {
-    const filters = `artist_like=${filter.artist}&releaseDate_like=${filter.releaseDate}&genres_like=${filter.genre}`;
+    const filters = `artist_like=${filter.artist}&releaseDate_like=${filter.releaseDate}&genres_like=${filter.genre}&country_like=${filter.country}`;
 
     const response = await api.get(
       `reviews?_sort=rating.primary,rating.secondary,songsAverage&_order=desc,desc,desc&${filters}`,
